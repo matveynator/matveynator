@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matvey Gladkikh @matveynator
-- 👀 I’m interested in vanilla flavoured GoLang and TinyGo problem-solving software.
-- 🌱 I’m currently writing concurent GO and TinyGO with all the difference invented by smart people behind GO.
-- 💞️ I’m looking to collaborate on spacex starship project. 
+- 👀 I’m interested in problem-solving software. 
+- 💞️ I like writing concurent GO and TinyGO with all the smart methods (GO proverbs) invented by smart people behind GO.
+- 🌱 I’m looking to collaborate on spacex starship project. 
 - 📫 matveynator@gmail.com
 
 <!---
