@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matveynator
+- 👋 Hi, I’m @matveynator, a **hobbyist programmer**.
 - 👀 I’m interested in problem-solving software. 
 - 💞️ I like writing concurent [GO](https://go.dev) and [TinyGO](https://tinygo.org/) in accordance with all the [GO proverbs](https://go-proverbs.github.io/) invented by smart people behind GO.
 - 🌱 I’m looking to collaborate on deep space probes and problem-solving projects. 
