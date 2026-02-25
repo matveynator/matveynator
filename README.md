@@ -1,5 +1,5 @@
 - 👋 I am @matveynator — a hobbyist programmer.
-- 👀 Just a dust in the wind.
+- 👀 I am just a dust in the wind.
 - 🌱 I seek projects born of curiosity rather than profit, works that leave neither scars on nature nor fingerprints on the soul.
 - 📫 Correspondence may be addressed to: matveynator@gmail.com
 
