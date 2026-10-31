@@ -1,6 +1,6 @@
 - 👋 I am @matveynator — a hobbyist programmer.
 - 👀 I am but a humble guest, for a brief while, upon this Earth.
-- 🌱 I seek endeavours sprung from curiosity rather than gain, leaving neither wound upon nature nor stain upon the soul.
+- 🌱 I seek endeavours born of curiosity rather than gain, with due regard for nature and conscience.
 - 📫 Correspondence may be addressed to: matveynator@gmail.com
 
 <!---
